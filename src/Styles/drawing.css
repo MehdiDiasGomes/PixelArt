@@ -1,0 +1,16 @@
+#drawing {
+    margin-bottom: 3rem;   
+}
+
+#btn-valid {
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(171, 17, 74);
+    padding: 0.5rem;
+    width: 8rem;
+    height: 4rem;
+    transition: .2s;
+}
+
+#btn-valid:hover {
+    background-color: rgb(171, 17, 74);
+}
